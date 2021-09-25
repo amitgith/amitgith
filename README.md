@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @amitgith
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Amit Kumar Sharma
+- 👀 I’m current working on Some cool projects using 
+- 🌱 I’m currently learning python and Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 
+- ak.sharma9340038@gmail.com
 
 <!---
 amitgith/amitgith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
